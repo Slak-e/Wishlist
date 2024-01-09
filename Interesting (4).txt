@@ -192,3 +192,7 @@ dimwishlist:item=4248997900&perks=
 dimwishlist:item=4248997900&perks=
 
 
+// Honor's Edge - Yeah sure, why not ()
+dimwishlist:item=2857348871&perks=3666208348,1749209109,818211479
+
+
